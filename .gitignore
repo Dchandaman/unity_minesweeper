@@ -5,6 +5,7 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+server/node_modules/
 
 # User settings files
 user.json
